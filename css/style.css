@@ -1,3 +1,16 @@
 body {
- background-color: #f8s4;
+ background-color: #ccc;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+    display: inline;
+    margin-left: 5px;
+}
+
+li a {
+	text-decoration: none;
 }
